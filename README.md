@@ -7,9 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PhucNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
 [![Gmail Badge](https://img.shields.io/badge/-phucnh.9824-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucnh.9824@gmail.com)](mailto:phucnh.9824@gmail.com)
 
-<br />
-<br />
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ### 👨‍💻 Languages and Tools
