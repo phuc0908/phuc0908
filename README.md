@@ -4,9 +4,8 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-hello-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Phuc-Nguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
+[![Gmail Badge](https://img.shields.io/badge/-phucnh.9824-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucnh.9824@gmail.com)](mailto:phucnh.9824@gmail.com)
 
 <br />
 <br />
