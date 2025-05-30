@@ -1,12 +1,8 @@
-## Welcome to my Github <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">
+## Welcome to my Github <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-PhucNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
 [![Gmail Badge](https://img.shields.io/badge/-phucnh.9824-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucnh.9824@gmail.com)](mailto:phucnh.9824@gmail.com)
+
 ### Hello! I'm Nguyen Hong Phuc a Developer from Vietnam.
-
-
-
-
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ### 👨‍💻 Languages and Tools
