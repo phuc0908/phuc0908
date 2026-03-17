@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PhucNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
 [![Gmail Badge](https://img.shields.io/badge/-phucnh.9824-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucnh.9824@gmail.com)](mailto:phucnh.9824@gmail.com)
 
-### Hello! I'm Nguyen Hong Phuc a Developer from Vietnam.
+### Hello! I'm Nguyen Hong Phuc a Noob Developer from Vietnam.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ### 👨‍💻 Languages and Tools
@@ -22,4 +22,4 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-⭐️ From [@PhucHoaChu](https://github.com/phuc0908)
+⭐️ From [@Push2Plus](https://github.com/phuc0908)
