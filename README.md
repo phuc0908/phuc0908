@@ -47,6 +47,14 @@ Open to collaboration on interesting open-source projects.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## Projects
 
 | Project | Description | Stack | Demo |
@@ -62,12 +70,6 @@ Open to collaboration on interesting open-source projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc0908&theme=default&hide_border=true" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phuc0908&theme=default" width="32%"/>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 
 ---
