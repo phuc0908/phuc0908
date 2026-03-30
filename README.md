@@ -59,7 +59,7 @@ Open to collaboration on interesting open-source projects.
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| **Project Alpha** | A full-stack web app for managing tasks and workflows | Laravel · MySQL · Vue.js | [Live ↗](https://your-demo-link.com) |
+| **vn-legal-rag** |Vietnamese legal Q&A system using RAG — retrieves relevant legal documents from a vector store and generates cited answers via LLM | FastAPI · LangChain · ChromaDB · Gemini · MySQL · React 18 · Vite · React Native · Expo · Sentence Transformers | [Nothing](https://your-demo-link.com) |
 
 ---
 
@@ -68,7 +68,6 @@ Open to collaboration on interesting open-source projects.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phuc0908&theme=default" width="32%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc0908&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phuc0908&theme=default" width="32%"/>
 </p>
 
 
