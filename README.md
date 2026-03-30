@@ -1,25 +1,86 @@
-## Welcome to my Github <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-[![Linkedin Badge](https://img.shields.io/badge/-PhucNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuc-nguyen-758a2b368/)](https://www.linkedin.com/in/phuc-nguyen-758a2b368/)
-[![Gmail Badge](https://img.shields.io/badge/-phucnh.9824-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucnh.9824@gmail.com)](mailto:phucnh.9824@gmail.com)
+<h1 align="center">Nguyen Hong Phuc</h1>
 
-### Hello! I'm Nguyen Hong Phuc a Noob Developer from Vietnam.
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-### 👨‍💻 Languages and Tools
+<p align="center">
+  <em>Full-Stack Developer · Vietnam 🇻🇳</em>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/phuc-nguyen-758a2b368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:phucnh.9824@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=phuc0908&style=flat-square&color=0077B5"/>
+</p>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JavaScript](https://img.shields.io/badge/-PHP-white?style=flat&logo=php&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+---
 
-[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+## About
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+Developer based in Da Nang, Vietnam with a focus on web application development.
+Currently deepening expertise in modern frontend frameworks and backend architecture.
+Open to collaboration on interesting open-source projects.
 
-⭐️ From [@Push2Plus](https://github.com/phuc0908)
+---
+
+## Tech Stack
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Database & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Description | Stack | Demo |
+|--------|-------------|-------|------|
+| **Project Alpha** | A full-stack web app for managing tasks and workflows | Laravel · MySQL · Vue.js | [Live ↗](https://your-demo-link.com) |
+| **Project Beta** | RESTful API service with authentication and role management | Node.js · TypeScript · MySQL | [Live ↗](https://your-demo-link.com) |
+| **Project Gamma** | Responsive UI component library with reusable elements | React · CSS3 | [Live ↗](https://your-demo-link.com) |
+
+> Replace project names, descriptions, and links with your actual projects.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuc0908&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc0908&theme=default&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc0908&layout=compact&theme=default&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuc0908&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2025 Nguyen Hong Phuc · <a href="https://github.com/phuc0908">@phuc0908</a></sub>
+</p>
