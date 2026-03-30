@@ -30,7 +30,6 @@ Open to collaboration on interesting open-source projects.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
@@ -53,10 +52,6 @@ Open to collaboration on interesting open-source projects.
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
 | **Project Alpha** | A full-stack web app for managing tasks and workflows | Laravel · MySQL · Vue.js | [Live ↗](https://your-demo-link.com) |
-| **Project Beta** | RESTful API service with authentication and role management | Node.js · TypeScript · MySQL | [Live ↗](https://your-demo-link.com) |
-| **Project Gamma** | Responsive UI component library with reusable elements | React · CSS3 | [Live ↗](https://your-demo-link.com) |
-
-> Replace project names, descriptions, and links with your actual projects.
 
 ---
 
