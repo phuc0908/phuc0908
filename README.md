@@ -60,6 +60,22 @@ Open to collaboration on interesting open-source projects.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc0908&theme=default&hide_border=true" width="48%"/>
 </p>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phuc0908&theme=flat&no-frame=true&column=6&margin-w=10"/>
+</p>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phuc0908&theme=default" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phuc0908&theme=default" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phuc0908&theme=default" width="32%"/>
+</p>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phuc0908/phuc0908/output/github-contribution-grid-snake.svg"/>
+</p>
 
 
 ---
