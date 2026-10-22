@@ -18,9 +18,7 @@
 
 ## About
 
-Developer based in Da Nang, Vietnam with a focus on web application development.
-Currently deepening expertise in modern frontend frameworks and backend architecture.
-Open to collaboration on interesting open-source projects.
+Software Developer from Da Nang, Vietnam 🇻🇳, interested in building reliable, scalable, and user-focused applications. Exploring modern frontend technologies, backend architecture, cloud infrastructure, and AI integration. Passionate about solving real-world problems through software and contributing to open-source projects.
 
 ---
 
